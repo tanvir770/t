@@ -1,0 +1,154 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;600&display=swap');
+
+ *{
+	 margin: 0px auto;
+	 padding: 0px auto;
+	 
+ }
+ body{
+	 font-family: 'Roboto Slab', serif;
+ }
+ h6{
+	 font-size: 18px;
+	 color: white;
+ }
+ h2{
+	 font-size: 50px;
+	 color :white;
+ 
+ }
+ h3{
+	 font-size: 30px;
+	 color: white;
+ }
+ h4{
+	 font-size: 30px;
+	 color: #31353e;
+ 
+ }
+ h5{
+	 font-size: 15px;
+	 color: #31353e;
+ }
+ p{
+	 font-size: 15px;
+	 color: white;
+ }
+ .read-btn{
+	 margin: 0 auto;
+	 display: block;
+	 padding: 10px 50px;
+	 border-radius: 30px;
+	 background-color: white;
+	 font-size: 18px;
+	 margin-bottom: 100px;
+	 margin-top: 50px;
+	 border :none;
+ }
+ 
+ 
+ /*  theme css  */
+ 
+ /*  header  */
+ 
+ .nav-head{
+	 background-color: #edeff1;
+	 padding: 25px 0px;
+ }
+ .nav-link.js-scroll-trigger {
+	 color: black;
+ }
+ .nav-link.js-scroll-trigger.active {
+	 background-color: #dd4b2b;
+	 padding: 10px 20px;
+	 border-radius: 25px;
+	 color: white;
+ }
+ .hero{
+	 background: url(../img/banner.jpg)no-repeat;
+	 background-size: cover;
+	 background-position: top;
+	 padding: 365px 0px 0px 0px;
+	 margin-top: 110px 0px;
+ 
+ }
+ .hero-main{
+	 text-align: center;
+ 
+ }
+ .hero-item{
+	 text-align: center;
+	 margin: 110px 0px;
+ }
+ 
+ .news-sec{
+	 background-color: #edeff1;
+	 text-align: center;
+ }
+ .img-lfuid{
+	 margin: 40px 0px;
+	 border-radius: 20px;
+ }
+ .letter-form{
+	 background : url(../img/newsletter.jpg)no-repeat;
+	 background-size: cover;
+	 padding: 50px 0px;
+ }
+ .letter-text{
+	 text-align: center;
+	 margin-bottom: 20px;
+ }
+ .letter-text-two{
+	 margin-bottom: 20px;
+ }
+ .mail-form{
+	 border-radius: 30px;
+	 padding: 11px 120px 11px 23px;
+	 background-color: #ffffff30;
+	 position: relative;
+ 
+ }
+ .read-po-btn{
+	 padding: 10px 50px;
+	 border-radius: 30px;
+	 background-color: white;
+	 font-size: 18px;
+	 position: absolute;
+	 right: 78px;
+	 border: none;
+	 left: 594px;
+ }
+ .letter-input{
+ 
+ }
+ ::placeholder{
+	 color: white;
+	 opacity: 1;
+ }
+ .about-form{
+	 margin-top: 100px;
+ }
+ .sign-up-btn{
+	 padding: 10px 50px;
+	 border-radius: 30px;
+	 background-color: #dd4b2b;
+	 font-size: 18px;
+	 color: white;
+	 margin-top: 15px;
+	 border: none;
+ }
+ .sign-up-btn-two{
+	 padding: 10px 50px;
+	 border-radius: 30px;
+	 background-color: #4b4e73;
+	 font-size: 18px;
+	 color: white;
+	 margin-top: 15px;
+	 border: none;
+ }
+ .theme-text{
+	 background-color: #d75d0e;
+	 padding: 60px 0px;
+ }
+ 
